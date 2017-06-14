@@ -1,6 +1,6 @@
 {
   "name": "gimie.weather",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/machellerogden/gimie.weather.git"
   },
-  "keywords": [],
+  "keywords": [
+    "gimie"
+  ],
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
@@ -21,8 +23,5 @@
     "bluebird": "^3.5.0",
     "lodash": "^4.17.4",
     "weather-js": "^2.0.0"
-  },
-  "keywords": [
-    "gimie"
-  ]
+  }
 }
